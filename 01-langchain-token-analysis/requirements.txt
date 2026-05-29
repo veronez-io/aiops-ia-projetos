@@ -1,0 +1,14 @@
+# Core LangChain (v1.x released Dec 2025)
+langchain>=1.0.0
+langchain-core>=1.0.0
+
+# Provider integrations
+langchain-anthropic>=0.3.0
+langchain-google-genai>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0

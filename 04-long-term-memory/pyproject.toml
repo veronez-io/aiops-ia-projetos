@@ -1,0 +1,11 @@
+[project]
+name = "long-term-memory"
+version = "0.1.0"
+description = "Demonstração de memória de longo prazo (persiste entre sessões) com Streamlit + Gemini"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.30.0",
+    "langchain-core>=1.0.0",
+    "langchain-google-genai>=4.0.0",
+    "python-dotenv>=1.0.0",
+]
