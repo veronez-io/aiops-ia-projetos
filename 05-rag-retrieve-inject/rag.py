@@ -25,7 +25,7 @@ EMBEDDING_DIM = 3072
 
 # Modelos do Gemini (mesmos padrões usados nos outros projetos do repositório).
 EMBEDDING_MODEL = "gemini-embedding-001"
-CHAT_MODEL = "gemini-3-pro-preview"
+CHAT_MODEL = "gemini-3.5-flash"
 
 
 # ---------------------------------------------------------------------------
